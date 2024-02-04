@@ -18,7 +18,7 @@ const Navbar = () => {
         <div className="wrapper">
             <div className="left">
                 <div className="item">
-                    <img src="./././img/uae.png"  alt="" />
+                    <img src="https://t3.ftcdn.net/jpg/00/02/22/66/360_F_2226655_oZRxLiayqDEF8M1Gm9NPQIJKqi6KLi.jpg"  alt="" />
                     <KeyboardArrowDownIcon />
                 </div>
                 <div className="item">

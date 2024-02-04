@@ -48,7 +48,7 @@ const Footer = () => {
           </div>
         </div>
         <div className="right">
-          <img src="../../img/payment.png" alt="" />
+          <img src="https://gradmedia.org/wp-content/uploads/2021/08/fama-strip.png" alt="" />
         </div>
       </div>
     </div>
